@@ -39,11 +39,11 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="检查数据，&lt;div&gt;上传附件&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="95" y="380" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="cwCkxdbxQCVMGvkWxPKt-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-11" target="cwCkxdbxQCVMGvkWxPKt-5">
+        <mxCell id="cwCkxdbxQCVMGvkWxPKt-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#2fb65c;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-11" target="cwCkxdbxQCVMGvkWxPKt-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="410" y="575" />
-              <mxPoint x="410" y="190" />
+              <mxPoint x="430" y="575" />
+              <mxPoint x="430" y="190" />
             </Array>
           </mxGeometry>
         </mxCell>
