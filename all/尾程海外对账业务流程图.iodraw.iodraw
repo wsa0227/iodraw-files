@@ -46,7 +46,10 @@
           <mxGeometry x="245" y="400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cwCkxdbxQCVMGvkWxPKt-2" value="专员操作" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=0;spacing=5;verticalAlign=middle;fontSize=19;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="60" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cwCkxdbxQCVMGvkWxPKt-3" value="专员操作" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=0;spacing=5;verticalAlign=middle;fontSize=19;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="540" y="60" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
