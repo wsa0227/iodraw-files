@@ -141,7 +141,13 @@
           <mxGeometry x="1080" y="280" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cwCkxdbxQCVMGvkWxPKt-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cwCkxdbxQCVMGvkWxPKt-46" target="WIyWlLk6GJQsqaUBKTNV-3">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1080" y="670" />
+              <mxPoint x="65" y="670" />
+              <mxPoint x="65" y="200" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="cwCkxdbxQCVMGvkWxPKt-46" value="付款" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1020" y="340" width="120" height="60" as="geometry" />
