@@ -127,8 +127,11 @@
         <mxCell id="cwCkxdbxQCVMGvkWxPKt-35" value="通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="955" y="158" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cwCkxdbxQCVMGvkWxPKt-41" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="885" y="238" width="50" height="30" as="geometry" />
+        <mxCell id="cwCkxdbxQCVMGvkWxPKt-41" value="拒绝" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="900" y="238" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cwCkxdbxQCVMGvkWxPKt-43" value="经理操作" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=0;spacing=5;verticalAlign=middle;fontSize=19;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="850" y="80" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
