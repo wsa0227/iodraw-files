@@ -70,8 +70,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cwCkxdbxQCVMGvkWxPKt-8" value="（检查后）提交" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="cwCkxdbxQCVMGvkWxPKt-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cwCkxdbxQCVMGvkWxPKt-8" target="cwCkxdbxQCVMGvkWxPKt-9">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cwCkxdbxQCVMGvkWxPKt-8" value="提交" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="545" y="260" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cwCkxdbxQCVMGvkWxPKt-9" value="根据报错提示进行调整" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="695" y="280" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cwCkxdbxQCVMGvkWxPKt-10" value="完成" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cwCkxdbxQCVMGvkWxPKt-12" target="cwCkxdbxQCVMGvkWxPKt-13">
           <mxGeometry y="20" relative="1" as="geometry">
