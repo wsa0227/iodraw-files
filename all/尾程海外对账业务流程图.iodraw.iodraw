@@ -136,7 +136,7 @@
         <mxCell id="cwCkxdbxQCVMGvkWxPKt-35" value="通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="955" y="158" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cwCkxdbxQCVMGvkWxPKt-41" value="拒绝" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="cwCkxdbxQCVMGvkWxPKt-41" value="驳回" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="900" y="238" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cwCkxdbxQCVMGvkWxPKt-43" value="经理操作" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=0;spacing=5;verticalAlign=middle;fontSize=19;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -161,7 +161,7 @@
           <mxGeometry x="1015" y="428" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cwCkxdbxQCVMGvkWxPKt-52" value="驳回后回到待提交状态" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1090" y="168" width="140" height="30" as="geometry" />
+          <mxGeometry x="1120" y="170" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
