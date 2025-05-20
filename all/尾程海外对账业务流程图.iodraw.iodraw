@@ -128,6 +128,10 @@
         <mxCell id="cwCkxdbxQCVMGvkWxPKt-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cwCkxdbxQCVMGvkWxPKt-33">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="600" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1080" y="150" />
+              <mxPoint x="601" y="150" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="cwCkxdbxQCVMGvkWxPKt-33" value="审批" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
