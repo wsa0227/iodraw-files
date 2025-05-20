@@ -152,6 +152,9 @@
         <mxCell id="cwCkxdbxQCVMGvkWxPKt-46" value="付款" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1020" y="340" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="cwCkxdbxQCVMGvkWxPKt-48" value="付全款后" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1075" y="428" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
