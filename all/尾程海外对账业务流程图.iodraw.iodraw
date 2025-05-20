@@ -54,10 +54,10 @@
           <mxGeometry x="245" y="400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cwCkxdbxQCVMGvkWxPKt-2" value="专员操作" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=0;spacing=5;verticalAlign=middle;fontSize=19;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="90" y="60" width="120" height="50" as="geometry" />
+          <mxGeometry x="80" y="82" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="cwCkxdbxQCVMGvkWxPKt-3" value="主管操作" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=0;spacing=5;verticalAlign=middle;fontSize=19;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="470" y="72" width="120" height="50" as="geometry" />
+          <mxGeometry x="475" y="82" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="cwCkxdbxQCVMGvkWxPKt-4" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cwCkxdbxQCVMGvkWxPKt-5" target="cwCkxdbxQCVMGvkWxPKt-8">
           <mxGeometry relative="1" as="geometry" />
