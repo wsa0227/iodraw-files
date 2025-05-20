@@ -104,6 +104,9 @@
         <mxCell id="cwCkxdbxQCVMGvkWxPKt-28" value="经理操作" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=0;spacing=5;verticalAlign=middle;fontSize=19;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="840" y="70" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="cwCkxdbxQCVMGvkWxPKt-29" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="820" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
