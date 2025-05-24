@@ -7,14 +7,14 @@
         <mxCell id="O_S9MeCtifjLgk4B_cXI-8" value="sales_amazon" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O_S9MeCtifjLgk4B_cXI-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O_S9MeCtifjLgk4B_cXI-9" value="sales_amazon_item" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O_S9MeCtifjLgk4B_cXI-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O_S9MeCtifjLgk4B_cXI-10" value="sales_amazon_replacements" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O_S9MeCtifjLgk4B_cXI-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="350" width="120" height="60" as="geometry" />
+        <mxCell id="O_S9MeCtifjLgk4B_cXI-11" value="sales_amazon_return" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
