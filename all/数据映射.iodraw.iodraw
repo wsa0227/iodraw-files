@@ -31,13 +31,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UjJzhukBLViWCQVhWLKj-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UjJzhukBLViWCQVhWLKj-26" target="UjJzhukBLViWCQVhWLKj-22">
+        <mxCell id="UjJzhukBLViWCQVhWLKj-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UjJzhukBLViWCQVhWLKj-3" target="UjJzhukBLViWCQVhWLKj-22">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="670" y="340" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="936" y="245" />
               <mxPoint x="671" y="245" />
-              <mxPoint x="671" y="500" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -97,6 +95,9 @@
         </mxCell>
         <mxCell id="UjJzhukBLViWCQVhWLKj-36" value="&lt;h3&gt;天远视开发服务器&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="430" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UjJzhukBLViWCQVhWLKj-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.729;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UjJzhukBLViWCQVhWLKj-3" target="UjJzhukBLViWCQVhWLKj-33">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
