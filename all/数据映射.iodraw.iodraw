@@ -97,6 +97,9 @@
         <mxCell id="UjJzhukBLViWCQVhWLKj-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.449;entryY=-0.028;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UjJzhukBLViWCQVhWLKj-3" target="UjJzhukBLViWCQVhWLKj-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="UjJzhukBLViWCQVhWLKj-46" value="我们当前需要导通" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
