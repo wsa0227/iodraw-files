@@ -18,6 +18,9 @@
         <mxCell id="UjJzhukBLViWCQVhWLKj-3" value="业务服务器&lt;div&gt;14.22.85.144&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="270" y="210" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="UjJzhukBLViWCQVhWLKj-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
