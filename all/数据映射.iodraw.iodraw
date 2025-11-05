@@ -8,7 +8,7 @@
           <mxGeometry x="40" y="420" width="360" height="150" as="geometry" />
         </mxCell>
         <mxCell id="UjJzhukBLViWCQVhWLKj-33" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#fff2cc;fillStyle=auto;strokeWidth=5;glass=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="415" width="536" height="170" as="geometry" />
+          <mxGeometry x="440" y="440" width="450" height="145" as="geometry" />
         </mxCell>
         <mxCell id="UjJzhukBLViWCQVhWLKj-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UjJzhukBLViWCQVhWLKj-2" target="UjJzhukBLViWCQVhWLKj-3">
           <mxGeometry relative="1" as="geometry" />
@@ -39,6 +39,10 @@
         <mxCell id="UjJzhukBLViWCQVhWLKj-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UjJzhukBLViWCQVhWLKj-3" target="UjJzhukBLViWCQVhWLKj-26">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="840" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="820" y="245" />
+              <mxPoint x="820" y="390" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="UjJzhukBLViWCQVhWLKj-3" value="业务服务器Nginx&lt;div&gt;14.22.85.144:7000&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
@@ -81,7 +85,7 @@
           <mxGeometry x="656" y="385" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UjJzhukBLViWCQVhWLKj-26" value="/e" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="836" y="375" width="30" height="30" as="geometry" />
+          <mxGeometry x="827" y="395" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UjJzhukBLViWCQVhWLKj-27" value="http" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="330" y="148" width="40" height="30" as="geometry" />
