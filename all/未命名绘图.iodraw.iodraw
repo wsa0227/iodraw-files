@@ -74,8 +74,8 @@
         <mxCell id="UjJzhukBLViWCQVhWLKj-27" value="http" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="330" y="148" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UjJzhukBLViWCQVhWLKj-28" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="405" y="198" width="50" height="30" as="geometry" />
+        <mxCell id="UjJzhukBLViWCQVhWLKj-28" value="反代规则" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="395" y="198" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
