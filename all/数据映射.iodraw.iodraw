@@ -109,8 +109,8 @@
         <mxCell id="UjJzhukBLViWCQVhWLKj-52" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="60" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UjJzhukBLViWCQVhWLKj-53" value="我们现在需要打通此处" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="148" width="60" height="30" as="geometry" />
+        <mxCell id="UjJzhukBLViWCQVhWLKj-53" value="&lt;h3&gt;&lt;b&gt;&lt;font color=&quot;#ff2c14&quot;&gt;我们现在需要打通此处&lt;/font&gt;&lt;/b&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="130" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
