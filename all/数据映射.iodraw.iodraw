@@ -98,7 +98,7 @@
           <mxGeometry x="495" y="210" width="60" height="75" as="geometry" />
         </mxCell>
         <mxCell id="UjJzhukBLViWCQVhWLKj-50" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;rotation=90;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
-          <mxGeometry x="360" y="540" width="130" height="60" as="geometry" />
+          <mxGeometry x="110" y="225" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UjJzhukBLViWCQVhWLKj-51" value="&lt;h3&gt;考虑到交付要求，我们将dify部署在了私有云服务器，随着开发进度&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="661.5" y="640" width="295" height="90" as="geometry" />
