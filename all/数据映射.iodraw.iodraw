@@ -14,7 +14,7 @@
           <mxGeometry x="20" y="420" width="380" height="150" as="geometry" />
         </mxCell>
         <mxCell id="UjJzhukBLViWCQVhWLKj-33" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#fff2cc;fillStyle=auto;strokeWidth=5;glass=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="584" y="460" width="450" height="145" as="geometry" />
+          <mxGeometry x="584" y="467.5" width="450" height="145" as="geometry" />
         </mxCell>
         <mxCell id="UjJzhukBLViWCQVhWLKj-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UjJzhukBLViWCQVhWLKj-2" target="UjJzhukBLViWCQVhWLKj-3">
           <mxGeometry relative="1" as="geometry" />
