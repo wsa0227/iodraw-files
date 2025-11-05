@@ -10,7 +10,7 @@
         <mxCell id="UjJzhukBLViWCQVhWLKj-2" value="用户访问" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="270" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UjJzhukBLViWCQVhWLKj-3" value="用户访问" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="UjJzhukBLViWCQVhWLKj-3" value="业务服务器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="270" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
