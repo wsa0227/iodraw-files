@@ -106,6 +106,9 @@
         <mxCell id="UjJzhukBLViWCQVhWLKj-51" value="由于资源紧张，我们的dify服务部署在了私有云上，而且业务要求，dify作为一个模块为数据映射提供模型能力，且浏览器安全策略，最终选择同源 nginx反代，保证极大地安全性" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="740" y="680" width="240" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="UjJzhukBLViWCQVhWLKj-52" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="60" width="30" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
