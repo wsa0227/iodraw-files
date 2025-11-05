@@ -103,7 +103,7 @@
         <mxCell id="UjJzhukBLViWCQVhWLKj-50" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;rotation=90;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
           <mxGeometry x="140" y="300" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UjJzhukBLViWCQVhWLKj-51" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="UjJzhukBLViWCQVhWLKj-51" value="由于资源紧张，我们的dify服务部署在了私有云上，而且业务要求，dify作为一个模块为数据映射提供模型能力，且浏览器安全策略，最终选择同源 nginx反代，保证极大地安全性" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="740" y="680" width="240" height="80" as="geometry" />
         </mxCell>
       </root>
