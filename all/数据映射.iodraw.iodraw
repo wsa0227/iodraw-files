@@ -103,8 +103,8 @@
         <mxCell id="UjJzhukBLViWCQVhWLKj-50" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;rotation=90;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
           <mxGeometry x="140" y="300" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UjJzhukBLViWCQVhWLKj-51" value="&lt;h4&gt;由于资源紧张，我们的dify服务部署在了私有云上，而且业务集成要求，dify作为一个模块为数据映射提供模型能力。当前方案可满足浏览器安全策略，单一入口点便于安全管控，实现真正的模块化集成，无感切换。&lt;/h4&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="685" y="660" width="295" height="90" as="geometry" />
+        <mxCell id="UjJzhukBLViWCQVhWLKj-51" value="&lt;h3&gt;由于资源紧张，我们的dify服务部署在了私有云上，而且业务集成要求，dify作为一个模块为数据映射提供模型能力。当前方案可满足浏览器安全策略，单一入口点便于安全管控，实现真正的模块化集成，无感切换。&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="661.5" y="640" width="295" height="90" as="geometry" />
         </mxCell>
         <mxCell id="UjJzhukBLViWCQVhWLKj-52" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="60" width="30" height="60" as="geometry" />
