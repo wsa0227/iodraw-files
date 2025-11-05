@@ -13,12 +13,17 @@
         <mxCell id="UjJzhukBLViWCQVhWLKj-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UjJzhukBLViWCQVhWLKj-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="150" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="330" y="270" />
+              <mxPoint x="330" y="315" />
+              <mxPoint x="150" y="315" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="UjJzhukBLViWCQVhWLKj-3" value="业务服务器&lt;div&gt;14.22.85.144&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="270" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UjJzhukBLViWCQVhWLKj-8" value="Nginx反向代理&lt;div&gt;7000&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UjJzhukBLViWCQVhWLKj-8" value="Nginx反向代理&lt;div&gt;7000&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="90" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
