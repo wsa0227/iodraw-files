@@ -32,8 +32,11 @@
         <mxCell id="UjJzhukBLViWCQVhWLKj-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="500" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UjJzhukBLViWCQVhWLKj-16" value="业务系统后端&lt;div&gt;7013&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UjJzhukBLViWCQVhWLKj-16" value="业务系统后端&lt;div&gt;7013&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="280" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UjJzhukBLViWCQVhWLKj-17" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="165" y="268" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
