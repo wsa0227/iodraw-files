@@ -17,22 +17,17 @@
           <mxGeometry x="10" y="340" width="500" height="275" as="geometry" />
         </mxCell>
         <mxCell id="UjJzhukBLViWCQVhWLKj-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UjJzhukBLViWCQVhWLKj-2" target="UjJzhukBLViWCQVhWLKj-3">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="100" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="UjJzhukBLViWCQVhWLKj-2" value="用户访问" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="270" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UjJzhukBLViWCQVhWLKj-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UjJzhukBLViWCQVhWLKj-3" target="UjJzhukBLViWCQVhWLKj-8">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UjJzhukBLViWCQVhWLKj-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UjJzhukBLViWCQVhWLKj-3" target="UjJzhukBLViWCQVhWLKj-16">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="330" y="350" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="290" y="320" />
-              <mxPoint x="290" y="320" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="UjJzhukBLViWCQVhWLKj-3" value="天远视服务器 Nginx&lt;div&gt;14.22.85.144:7000&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="125" y="380" width="190" height="80" as="geometry" />
