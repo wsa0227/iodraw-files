@@ -79,8 +79,8 @@
         <mxCell id="UjJzhukBLViWCQVhWLKj-28" value="反代规则" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="300" y="290" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UjJzhukBLViWCQVhWLKj-29" value="silas服务器 数据库&lt;div&gt;pg： 43.136.112.83:8101&amp;nbsp;&lt;/div&gt;&lt;div&gt;redis：43.136.112.83:8102&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="310" y="690" width="240" height="60" as="geometry" />
+        <mxCell id="UjJzhukBLViWCQVhWLKj-29" value="&lt;h3&gt;silas服务器 数据库&lt;/h3&gt;&lt;div&gt;pg： 43.136.112.83:8101&amp;nbsp;&lt;/div&gt;&lt;div&gt;redis：43.136.112.83:8102&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="310" y="690" width="240" height="90" as="geometry" />
         </mxCell>
         <mxCell id="UjJzhukBLViWCQVhWLKj-34" value="&lt;h3&gt;私有云服务器&amp;nbsp;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;10.246.152.17&lt;/span&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="695" y="460" width="210" height="30" as="geometry" />
