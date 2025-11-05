@@ -86,7 +86,7 @@
           <mxGeometry x="695" y="460" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UjJzhukBLViWCQVhWLKj-36" value="&lt;h3&gt;天远视开发服务器&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="475" width="110" height="40" as="geometry" />
+          <mxGeometry x="160" y="475" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UjJzhukBLViWCQVhWLKj-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UjJzhukBLViWCQVhWLKj-3" target="UjJzhukBLViWCQVhWLKj-24">
           <mxGeometry relative="1" as="geometry" />
@@ -99,6 +99,9 @@
         </mxCell>
         <mxCell id="UjJzhukBLViWCQVhWLKj-47" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
           <mxGeometry x="480" y="205" width="60" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="UjJzhukBLViWCQVhWLKj-50" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="270" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
