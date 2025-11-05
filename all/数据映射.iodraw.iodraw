@@ -86,7 +86,7 @@
           <mxGeometry x="215" y="700" width="240" height="90" as="geometry" />
         </mxCell>
         <mxCell id="UjJzhukBLViWCQVhWLKj-34" value="&lt;h3&gt;私有云服务器&amp;nbsp;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;10.246.152.17&lt;/span&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="695" y="460" width="210" height="30" as="geometry" />
+          <mxGeometry x="695" y="467.5" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UjJzhukBLViWCQVhWLKj-36" value="&lt;h3&gt;天远视开发服务器&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="475" width="120" height="40" as="geometry" />
@@ -113,7 +113,7 @@
           <mxGeometry x="220" y="60" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UjJzhukBLViWCQVhWLKj-53" value="&lt;h3&gt;&lt;b&gt;&lt;font color=&quot;#ff2c14&quot;&gt;我们现在需要打通天远视与私有云的连通&lt;/font&gt;&lt;/b&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="290" width="170" height="30" as="geometry" />
+          <mxGeometry x="440" y="290" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UjJzhukBLViWCQVhWLKj-55" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;rotation=-180;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
           <mxGeometry x="510" y="690" width="100" height="50" as="geometry" />
