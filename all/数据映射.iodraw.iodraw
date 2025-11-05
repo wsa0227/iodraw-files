@@ -101,7 +101,7 @@
           <mxGeometry x="110" y="225" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UjJzhukBLViWCQVhWLKj-51" value="&lt;h3&gt;背景：随着业务发展，且考虑到交付要求，我们将dify服务二开后部署在了私有云服务器，作为数据映射系统的模型管理模块，为业务系统提供AI模型能力支持。&lt;/h3&gt;&lt;div style=&quot;text-align: left;&quot;&gt;原因：基于企业级安全要求和现代浏览器同源安全策略限制，我们采用Nginx反向代理架构统一管理多个微服务。通过单一入口点设计，实现用户无感知的服务切换，有效避免跨域访问、Cookie丢失、会话中断等技术问题，同时提升系统安全性和用户体验，确保AI功能与现有业务系统的深度集成。&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;需求：我们需要院里帮忙将私有云服务器(10.246.152.17)上面三个端口(7000、7001、7002)，对天远视服务器(14.22.85.144)开放，保证Nginx可以正常反代访问。&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="661.5" y="630" width="398.5" height="140" as="geometry" />
+          <mxGeometry x="600" y="190" width="490" height="200" as="geometry" />
         </mxCell>
         <mxCell id="UjJzhukBLViWCQVhWLKj-52" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="60" width="30" height="60" as="geometry" />
