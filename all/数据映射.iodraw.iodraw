@@ -34,7 +34,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UjJzhukBLViWCQVhWLKj-3" value="业务服务器Nginx&lt;div&gt;14.22.85.144:7000&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="UjJzhukBLViWCQVhWLKj-3" value="天远视服务器 Nginx&lt;div&gt;14.22.85.144:7000&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="270" y="210" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="UjJzhukBLViWCQVhWLKj-8" value="数据映射前端&lt;div&gt;14.22.85.144:7012&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
@@ -77,7 +77,7 @@
           <mxGeometry x="330" y="148" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UjJzhukBLViWCQVhWLKj-28" value="反代规则" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="310" y="280" width="70" height="30" as="geometry" />
+          <mxGeometry x="300" y="280" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UjJzhukBLViWCQVhWLKj-29" value="数据库地址&lt;div&gt;pg： 43.136.112.83:8101&amp;nbsp;&lt;/div&gt;&lt;div&gt;redis：43.136.112.83:8102&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="310" y="690" width="240" height="60" as="geometry" />
