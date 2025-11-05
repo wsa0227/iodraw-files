@@ -100,8 +100,8 @@
         <mxCell id="UjJzhukBLViWCQVhWLKj-50" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;rotation=90;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
           <mxGeometry x="110" y="225" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UjJzhukBLViWCQVhWLKj-51" value="&lt;h3&gt;背景：随着业务发展，且考虑到交付要求，我们将dify服务二开后部署在了私有云服务器，作为数据映射系统的模型管理模块，为业务系统提供AI模型能力支持。&lt;/h3&gt;&lt;div style=&quot;text-align: left;&quot;&gt;原因：&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="661.5" y="640" width="398.5" height="90" as="geometry" />
+        <mxCell id="UjJzhukBLViWCQVhWLKj-51" value="&lt;h3&gt;背景：随着业务发展，且考虑到交付要求，我们将dify服务二开后部署在了私有云服务器，作为数据映射系统的模型管理模块，为业务系统提供AI模型能力支持。&lt;/h3&gt;&lt;div style=&quot;text-align: left;&quot;&gt;原因：基于业务要求，和浏览器安全策略，将多个服务通过nginx统筹管理，单一入口点，可更好的无感切换，避免潜在问题。&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;需求：我们需要院里帮忙将私有云服务器上面三个端口，对天远视服务器开放，保证nginx可以正常反代访问&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="661.5" y="630" width="398.5" height="140" as="geometry" />
         </mxCell>
         <mxCell id="UjJzhukBLViWCQVhWLKj-52" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="60" width="30" height="60" as="geometry" />
