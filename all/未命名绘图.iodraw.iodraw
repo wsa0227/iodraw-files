@@ -50,7 +50,7 @@
         <mxCell id="UjJzhukBLViWCQVhWLKj-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UjJzhukBLViWCQVhWLKj-16" target="UjJzhukBLViWCQVhWLKj-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UjJzhukBLViWCQVhWLKj-16" value="业务系统后端&lt;div&gt;7013&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="UjJzhukBLViWCQVhWLKj-16" value="业务系统后端&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;14.22.85.144:&lt;/span&gt;7013&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="230" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UjJzhukBLViWCQVhWLKj-17" value="/" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
