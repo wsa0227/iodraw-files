@@ -25,11 +25,14 @@
         <mxCell id="UjJzhukBLViWCQVhWLKj-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UjJzhukBLViWCQVhWLKj-3" target="UjJzhukBLViWCQVhWLKj-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="UjJzhukBLViWCQVhWLKj-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UjJzhukBLViWCQVhWLKj-3" target="UjJzhukBLViWCQVhWLKj-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UjJzhukBLViWCQVhWLKj-3" value="天远视服务器 Nginx&lt;div&gt;14.22.85.144:7000&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="125" y="380" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UjJzhukBLViWCQVhWLKj-8" value="数据映射前端&lt;div&gt;14.22.85.144:7012&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="60" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UjJzhukBLViWCQVhWLKj-14" value="&lt;div&gt;dify后端&lt;/div&gt;10.246.152.17:7001" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="584" y="500" width="120" height="60" as="geometry" />
@@ -44,7 +47,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UjJzhukBLViWCQVhWLKj-16" value="数据映射后端&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;14.22.85.144:&lt;/span&gt;7013&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="230" y="525" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UjJzhukBLViWCQVhWLKj-17" value="/" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="120" y="360" width="30" height="30" as="geometry" />
@@ -80,7 +83,7 @@
           <mxGeometry x="695" y="467.5" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UjJzhukBLViWCQVhWLKj-36" value="&lt;h3&gt;天远视开发服务器&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="475" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="340" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UjJzhukBLViWCQVhWLKj-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UjJzhukBLViWCQVhWLKj-3" target="UjJzhukBLViWCQVhWLKj-24">
           <mxGeometry relative="1" as="geometry" />
