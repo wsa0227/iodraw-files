@@ -93,6 +93,9 @@
             <mxPoint x="739" y="452.01" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="UjJzhukBLViWCQVhWLKj-41" value="/ai/" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="740" y="370" width="40" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
