@@ -86,7 +86,7 @@
         <mxCell id="UjJzhukBLViWCQVhWLKj-29" value="数据库地址&lt;div&gt;pg： 43.136.112.83:8101&amp;nbsp;&lt;/div&gt;&lt;div&gt;redis：43.136.112.83:8102&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="390" y="600" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UjJzhukBLViWCQVhWLKj-33" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fillStyle=dots;strokeWidth=5;glass=0;shadow=0;" vertex="1" parent="1">
+        <mxCell id="UjJzhukBLViWCQVhWLKj-33" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=none;fillStyle=hatch;strokeWidth=5;glass=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="414" y="310" width="536" height="190" as="geometry" />
         </mxCell>
       </root>
